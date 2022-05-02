@@ -1,0 +1,145 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+</style>
+
+.navbar-brand img {
+    height: 68px;
+    width: 244px;
+    min-width: 244px;
+}
+
+.section1 {
+
+    background-size: cover;
+    background-image: url('/images/9f3c57470d23a53bc57413c645ace712.png');
+}
+
+
+.section4 {
+
+    background-size: cover;
+    background-image: url('/images/47694c3fa7de3238d28b72b12cf1784b.png');
+}
+
+.section5 {
+
+    background-size: cover;
+    background-image: url('/images/a7862bcd723e4b5bba9cb39df119954d.png');
+}
+
+.company-hero {
+
+    background-size: cover;
+    background-image: url('/images/45d56dccee367e4b39e4fe9c337b0c9d.png');
+}
+
+
+
+.roadmap {
+
+    background-size: cover;
+    background-image: url('/images/a7862bcd723e4b5bba9cb39df119954d.png');
+    
+}
+
+.our-vision {
+
+    background-size: cover;
+    background-image: url('/images/7e33fbc94bfb29de408353e2e88e7946.png');
+    
+}
+
+.join-team {
+
+    background-size: cover;
+    background-image: url('/images/e25026dccc258ef0295733f9d4281fbc.png');
+    color: white;
+    
+}
+
+.roadmap-details {
+
+    background-color: #071d2d;    
+}
+
+
+
+body {
+    font-family: 'Montserrat';
+    font-style: normal;
+}
+
+
+.section2 .text-center img {
+    height: 150px;
+}
+
+h2 {
+    font: 700 48px/1.25 "Montserrat", Helvetica, Arial, serif;
+}
+
+h3 {
+    font: 700 32px/1.12 "Montserrat", Helvetica, Arial, serif;
+}
+
+.section2 h3 {
+    margin: 35.5px 32px 0px;
+}
+
+h5 {
+    font-family: 'Montserrat';
+font-style: italic;
+font-weight: 400;
+font-size: 18px;
+
+align-items: center;
+}
+
+
+.card {
+    background-color: rgba(255, 255, 255, 0.65);
+box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2470588235);
+border-radius: 25px 25px 25px 25px;
+}
+p, h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat';
+    font-style: normal;
+}
+
+
+.roadmap-details img {
+    min-width: 79px;
+width: 79px;
+}
+
+
+footer img {
+    width: 50px;
+}
+
+
+.navbar-brand img {
+    height: 68px;
+width: 244px;
+min-width: 244px;
+}
+
+.btn-secondary {
+    background-color: #605d99;
+    box-shadow: 2px 2px 4px 0 rgb(0 0 0 / 25%);
+    border-radius: 15px 15px px 15px 15px;
+    font: 700 20px "Montserrat", Helvetica, Arial, serif;
+
+}
+
+.btn-secondary a {
+    color: white;
+
+}
+
+
+.roadmap-details .col-lg-6 p {
+    font: 17px/1.47 "Montserrat", Helvetica, Arial, serif;
+color: white;
+letter-spacing: 0px;
+}
