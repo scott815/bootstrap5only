@@ -11,26 +11,26 @@
 .section1 {
 
     background-size: cover;
-    background-image: url('/images/9f3c57470d23a53bc57413c645ace712.png');
+    background-image: url('../images/9f3c57470d23a53bc57413c645ace712.png');
 }
 
 
 .section4 {
 
     background-size: cover;
-    background-image: url('/images/47694c3fa7de3238d28b72b12cf1784b.png');
+    background-image: url('../images/47694c3fa7de3238d28b72b12cf1784b.png');
 }
 
 .section5 {
 
     background-size: cover;
-    background-image: url('/images/a7862bcd723e4b5bba9cb39df119954d.png');
+    background-image: url('../images/a7862bcd723e4b5bba9cb39df119954d.png');
 }
 
 .company-hero {
 
     background-size: cover;
-    background-image: url('/images/45d56dccee367e4b39e4fe9c337b0c9d.png');
+    background-image: url('../images/45d56dccee367e4b39e4fe9c337b0c9d.png');
 }
 
 
@@ -38,21 +38,21 @@
 .roadmap {
 
     background-size: cover;
-    background-image: url('/images/a7862bcd723e4b5bba9cb39df119954d.png');
+    background-image: url('../images/a7862bcd723e4b5bba9cb39df119954d.png');
     
 }
 
 .our-vision {
 
     background-size: cover;
-    background-image: url('/images/7e33fbc94bfb29de408353e2e88e7946.png');
+    background-image: url('../images/7e33fbc94bfb29de408353e2e88e7946.png');
     
 }
 
 .join-team {
 
     background-size: cover;
-    background-image: url('/images/e25026dccc258ef0295733f9d4281fbc.png');
+    background-image: url('../images/e25026dccc258ef0295733f9d4281fbc.png');
     color: white;
     
 }
@@ -72,6 +72,10 @@ body {
 
 .section2 .text-center img {
     height: 150px;
+}
+
+h1 {
+    font: 700 73px/1.02 "Montserrat", Helvetica, Arial, serif;
 }
 
 h2 {
@@ -143,3 +147,4 @@ min-width: 244px;
 color: white;
 letter-spacing: 0px;
 }
+
